@@ -1,0 +1,88 @@
+# Prerequisites
+*.d
+
+# Object files
+*.slo
+*.o
+*.ko
+*.m
+*.obj
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+# Notepad
+*.pnproj
+*.pnps
+
+*~
+*.hex
+*.h88
+*.H88
+*.asm
+*.lst
+*.il?
+*.bin
+*.tds
+*.log
+*.ful
+*.bak
+*.~*
+*.dsk
+*.swp
+*.lss
+*.elf
+*.sym
+*.drc
+*.exe
+*.pdf
+*.out
+*.app
+*.tmp
+*.cgl
+*.txt
+*.bmp
+*.doc
+*.jpg
+*.png
+*.lng
+*.i*86
+*.x86_64
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/Debug/
+/user_config.mk
+
+*.7z
+*.zip
+*.tar
